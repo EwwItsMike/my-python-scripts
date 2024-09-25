@@ -1,0 +1,2 @@
+print("test's".title())
+
